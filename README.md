@@ -73,12 +73,8 @@
 
 ## Связь со мной  
 <div align="center">
-<a href="https://github.com/Higashi402" target="_blank">
-<img src=https://github.com/dheereshagrwal/coloured-icons/blob/master/public/logos/social%20media/telegram/telegram.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://gitlab.com/tylukovar" target="_blank">
-<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-</a>  
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_username)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/your_username)
 </div>  
   
 
